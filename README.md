@@ -1,4 +1,4 @@
-# SE306.Project1
+# SE306.Project1 A* Scheduling Problem
 
 ## Run from the Command Line
 1. Move all resources/input files into the same directory as where `scheduler-final-T4.jar` exists
